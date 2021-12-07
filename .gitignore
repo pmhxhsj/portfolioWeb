@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,web
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,web
 
+
+node_modules
+
 ### macOS ###
 # General
 .DS_Store
@@ -53,10 +56,7 @@ Temporary Items
 *.asp
 *.cer
 *.csr
-*.css
 *.htm
-*.html
-*.js
 *.jsp
 *.php
 *.rss
